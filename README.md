@@ -1,13 +1,12 @@
-### Moro oon Onsqa:D 👋
-FiveM oon rikkonut jo jonkin aikaa
-### Seuraas täälki
-[<img align="left" alt="Onsqa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Onsqa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-[<img align="left" alt="Onsqa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Onni ============================================================================================================================  Oon FiveM piireissä pyörinyt aktiivisen epäaktiivisesti vuodesta 2018 asti. Tällä en mitään projektia aktiivisesti tee.  * 🌍  I'm based in Kajjjaani
 
-<br />
+<a href="https://www.github.com/onsqa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/onsqa?logo=github&style=for-the-badge&color=ef4444&labelColor=27272a" /></a><a href="https://www.twitch.tv/Onsqa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/Onsqa?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=27272a&label=TWITCH+STATUS" /></a>
+### Skills
 
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a> </p> 
+ ### Socials  <p align="left"> <a href="https://discord.com/users/Onsqa#6844" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/onsqa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/Onsqa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+### Badges
 
-[youtube]: https://www.youtube.com/channel/UCHEB_R4wAhsguOuyoVX-pag
-[instagram]: https://instagram.com/onsqaa
-[twitch]: https://www.twitch.tv/onsqa
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/onsqa"><img src="https://github-readme-stats.vercel.app/api?username=onsqa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true" alt="onsqa's GitHub stats" /></a>
